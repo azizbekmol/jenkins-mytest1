@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "my text version 1300000"
+echo "my text version MY NEW 1300000"
