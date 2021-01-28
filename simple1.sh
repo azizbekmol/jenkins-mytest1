@@ -2,3 +2,4 @@
 
 echo "my text version MY NEW 1300000 JENKINS Super Test"
 echo "Test JENNNNN"
+echo "Last Test JENKINS"
