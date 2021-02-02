@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "my text version MY NEW 1300000 JENKINS Super Test"
+echo "This is a very simple script for testing Jenkins -v1"
 echo "Test JENNNNN"
 echo "Last Test JENKINS"
